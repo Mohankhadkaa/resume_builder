@@ -1,6 +1,6 @@
 Project Name: CV Builder
 
-Description:
+#Description:
 This project is a web-based CV (curriculum vitae) builder application that allows users to input their personal information, educational background, work experience, skills, projects, and achievements to generate a professional CV. The application provides real-time validation of user inputs, image preview functionality, and the ability to dynamically add or remove sections as needed.
 
 Features:
