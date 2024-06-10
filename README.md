@@ -37,27 +37,6 @@ Dynamic Section Addition/Removal: Implemented the jQuery Repeater plugin to hand
 
 Image Preview: Used JavaScript's FileReader API to read the contents of the uploaded image file and display a preview in an image element. This allowed users to visualize the image before finalizing their selection.
 
-Usage:
-
-Open the index.html file in a web browser.
-Fill in the required CV information in the provided form fields.
-Optionally, upload a profile picture to preview it.
-Add or remove sections as needed using the provided buttons.
-Review the generated CV displayed on the webpage.
-Print the CV directly from the browser for offline use.
-Contributing:
-Contributions to this project are welcome. Please fork the repository, make your changes, and submit a pull request.
-
-License:
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-
-
-
-
-Is this conversation helpful so far?
-
 
 
 
