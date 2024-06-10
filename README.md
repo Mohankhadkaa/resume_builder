@@ -1,6 +1,7 @@
 Project Name: CV Builder
 
 #Description:
+
 This project is a web-based CV (curriculum vitae) builder application that allows users to input their personal information, educational background, work experience, skills, projects, and achievements to generate a professional CV. The application provides real-time validation of user inputs, image preview functionality, and the ability to dynamically add or remove sections as needed.
 
 Features:
@@ -18,6 +19,8 @@ CSS3
 JavaScript (Vanilla JS)
 jQuery
 jQuery Repeater Plugin
+
+
 Challenges:
 
 Real-time Validation: Implementing real-time validation for form inputs while ensuring a smooth user experience posed a challenge. It required handling various types of input data (text, email, phone number) and providing meaningful error messages.
